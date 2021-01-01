@@ -95,4 +95,4 @@ async def asdf(ctx):
 
 
 #------------------------------------------------------------------------
-bot.run('NzMyMTI2ODI0NTM1OTQ5MzMy.XwwEPQ.Udwua3YcXPYhrBMfiEg1kr5-_7w')
+bot.run('NzMyMTI2ODI0NTM1OTQ5MzMy.XwwEPQ.zeQNrtySoAc1gKgB9OIcUyc9U9w')
